@@ -86,7 +86,7 @@ Kalau module ini membantu, boleh support via Saweria ya! 🙏
 
 ### Scan QR untuk donasi:
 
-![Saweria QR](download.png)
+![Saweria QR](saweria_qr.png)
 
 [![Saweria](https://img.shields.io/badge/Donasi-Saweria-orange?style=for-the-badge)](https://saweria.co)
 
