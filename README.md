@@ -75,3 +75,19 @@ Module ini hanya untuk keperluan unlock FPS di game. Penggunaan sepenuhnya tangg
 Made with ❤️ by **ZahrulObey**
 
 </div>
+
+---
+
+## ☕ Support & Donasi
+
+Kalau module ini membantu, boleh support via Saweria ya! 🙏
+
+<div align="center">
+
+### Scan QR untuk donasi:
+
+![Saweria QR](download.png)
+
+[![Saweria](https://img.shields.io/badge/Donasi-Saweria-orange?style=for-the-badge)](https://saweria.co)
+
+</div>
